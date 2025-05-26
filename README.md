@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abigail Joseph 👋
 
-<!--
-**Abbyk-j/Abbyk-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cognitive Systems major at UBC  
+🤖 Passionate about machine learning, robotics, and human-centered AI  
+📚 Completed the [Stanford Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning)
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- Python, JavaScript
+- Scikit-learn, NumPy, Matplotlib
+- Kinematics & Dynamics (Physics)
+- Currently learning: Isaac Gym, MuJoCo, PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [To-do-List](https://github.com/Abbyk-j/To-do-List): A simple JavaScript to-do list app
+- *More ML projects coming soon!*
+
+## 🌱 Currently Learning
+- Reinforcement learning for robotics
+- Advanced simulation environments
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/abigail-joseph-7157ab292)
+- Email: abbyj443@gmail.com
+
+
+
+*Thanks for visiting my profile!*
