@@ -11,7 +11,7 @@
 - Currently learning: Isaac Gym, MuJoCo, PyTorch
 
 ## 🚀 Projects
-- [To-do-List](https://github.com/Abbyk-j/To-do-List): A simple JavaScript to-do list app
+- [To-do-List](https://github.com/Abbyk-j/To-do-List): A simple JavaScript to-do list app - Developed to practice DOM manipulation and user interface design
 - *More ML projects coming soon!*
 
 ## 🌱 Currently Learning
